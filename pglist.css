@@ -1,0 +1,11 @@
+.breadcrumb{
+    padding: 10px;
+    background-color: darkgray;
+}
+#home a{
+    color: black;
+    text-decoration: none;
+}
+span{
+    padding: 10px;
+}
